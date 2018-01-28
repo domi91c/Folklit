@@ -53,3 +53,5 @@ group :development do
 end
 
 gem 'react_on_rails', '10.0.2'
+
+gem 'mini_racer', platforms: :ruby
